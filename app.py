@@ -20,7 +20,7 @@ st.sidebar.image(sidebar_image_url, use_column_width=True)
 st.sidebar.header("User Input")
 user_image_url = st.sidebar.text_input(
     "Enter the URL of the image you want critiqued:", 
-    value="https://yt3.googleusercontent.com/lqkWHj25LED8Bu51eofSutzzErko20ndDozCybnRd-ADSMwxXuHbRubOqYKJvBIjYHYPnR4nVg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  # Default image URL
+    value="https://media.discordapp.net/attachments/839723891613892619/1272729499884195880/PXL_20221224_011636300.jpg?ex=66bc0936&is=66bab7b6&hm=c7517321cb711f2aa4089744c79d934732c460f692ee8741a9ad83f9cffaa176&=&format=webp&width=447&height=597"  # Default image URL
 )
 
 # Display the user-provided image immediately after the URL is entered
